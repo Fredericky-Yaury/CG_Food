@@ -1,0 +1,156 @@
+/* Color:
+- #00432a green
+- #DE9564 orange
+- white
+*/
+
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+    line-height: 1.15;
+}
+
+/* Header */
+header, footer{
+    width: 100%;
+}
+
+header{
+    padding: 20px;
+    height: 12vh;
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+span{
+    font-size: larger;
+    font-weight: bold;
+    color: #00432a;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title-capital{
+    font-size: xx-large;
+    margin-right: -6px;
+    margin-left: 5px;
+}
+
+/* Footer */
+footer{
+    margin-top: auto;
+    height: 10vh;
+    color: white;
+    background-color: #00432a;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+}
+
+footer h2{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Content */
+.content{
+    height: fit-content;
+    min-height: 90vh;
+    display: flex;
+    padding-top: 15vh;
+}
+
+.product-model{
+    height: 75vh;
+    width: 50%;
+    flex: 100% 50%;
+    padding: 0 5vh;
+}
+
+.product-info{
+    flex: 1;
+    padding-left: 10vh;
+    min-height: 75vh;
+    width: 20%;
+    padding-right: 10vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#button{
+    font-weight: bold;
+    font-size: large;
+    background-color: #00432a;
+    color: white;
+    cursor: pointer;
+    border: 0;
+    border-radius: 20px;
+    height: 5vh;
+    width: 20vh;
+}
+
+.button-layout{
+    width: 100%;
+    display: flex;
+    font-size: 35px;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+#button:hover{
+    background-color: #DE9564;
+}
+
+h1{
+    margin-bottom: 10px;
+    text-align: center;
+    color: #00432a;
+}
+
+/* Media kecil */
+@media(max-width: 800px){
+    .content{
+        height: fit-content;
+        min-height: auto;
+        display: block;
+        padding-top: 5vh;
+    }
+
+    .product-model{
+        height: 50vh;
+        width: 100%;
+        flex: 100% 50%;
+        padding: 0 3vh;
+    }
+
+    .product-info{
+        min-height: 40vh;
+        padding-left: 3vh;
+        width: 100%;
+        padding-right: 3vh;
+        display: block;
+    }
+
+    #product-description{
+        text-align: center;
+        padding: 5vh 0;
+    }
+
+    #button{
+        width: 15vh;
+    }
+}

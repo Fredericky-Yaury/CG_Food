@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eclair
+* source:	https://sketchfab.com/3d-models/eclair-5a1e58e8b32f4ed6b3b09a1476049476
+* author:	Ronen (https://sketchfab.com/ronenh)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eclair" (https://sketchfab.com/3d-models/eclair-5a1e58e8b32f4ed6b3b09a1476049476) by Ronen (https://sketchfab.com/ronenh) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cream filled Eclaire
+* source:	https://sketchfab.com/3d-models/cream-filled-eclaire-34368742f07c48a8bc2404f7feef2fd3
+* author:	Ronen (https://sketchfab.com/ronenh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cream filled Eclaire" (https://sketchfab.com/3d-models/cream-filled-eclaire-34368742f07c48a8bc2404f7feef2fd3) by Ronen (https://sketchfab.com/ronenh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
